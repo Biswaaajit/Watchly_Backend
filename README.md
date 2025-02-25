@@ -36,7 +36,7 @@ The Watchly backend is deployed on **Render**. The base URL for API requests:
 
 | Method | Endpoint               | Description                |
 |--------|------------------------|----------------------------|
-| GET    | `/user`                | Get all users              |
+| GET    | `/user/`                | Get all users              |
 | POST   | `/user/register`       | Register a new user        |
 | POST   | `/user/login`          | Log in a user              |
 
